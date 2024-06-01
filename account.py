@@ -48,7 +48,7 @@ class Account:
             self.balance-=amount
             recipient_account.balance+=amount
         else:
-            return "insufficient funds"
+            return "insufficient  funds "
     
     
 
